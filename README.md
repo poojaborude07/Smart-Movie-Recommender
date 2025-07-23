@@ -41,5 +41,5 @@ Apply filters to explore movies that match your preferences:
 
 ## 🚀 Live Demo
 
-🔗 [Live App Demo](https://your-github-username.streamlit.app)
+🔗 [Live App Demo](https://smart-movie-recommender-zfffyxrksseabzoaf6lxbk.streamlit.app/)
 
